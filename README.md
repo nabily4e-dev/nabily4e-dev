@@ -1,5 +1,4 @@
 
-
 <!---
 nabily4e-dev/nabily4e-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -7,6 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 <!--- ![Nabil Ashbat's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=nabily4e-dev&hide=B&theme=transparent) --->
 
+<div style="text-align: right">
+  <img src="https://komarev.com/ghpvc/?username=nabily4e-dev">
+</div>
 <!-- Add your name or username -->
 <h1 align="center">Nabil Ashbat</h1>
 
@@ -33,6 +35,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Add an introduction or bio -->
 <p align="center">Welcome to my GitHub profile! I'm Nabil, a passionate developer with a strong interest in building innovative software solutions. I enjoy exploring new technologies, contributing to open-source projects, and creating impactful applications.</p>
+
+<br>
 
 <!--- Skills --->
 <h2 align="center">Skills</h2>
@@ -85,5 +89,4 @@ You can click the Preview link to take a look at your changes.
 <!-- Add a call to action or a message -->
 <p align="center">Let's connect and collaborate on exciting projects! Feel free to reach out to me via email or through my social media links above. Looking forward to hearing from you!</p>
 
-<!-- ![Profile Views](https://hit.yhype.me/github/profile?user_id=75049983) -->
-![](https://komarev.com/ghpvc/?username=nabily4e-dev)
+<p align="center"> 💙 </p>
