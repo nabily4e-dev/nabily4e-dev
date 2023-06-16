@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 <!--- ![Nabil Ashbat's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=nabily4e-dev&hide=B&theme=transparent) --->
 
-<div style="text-align: right">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=nabily4e-dev">
-</div>
+</p>
 <!-- Add your name or username -->
 <h1 align="center">Nabil Ashbat</h1>
 
