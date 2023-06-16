@@ -85,5 +85,5 @@ You can click the Preview link to take a look at your changes.
 <!-- Add a call to action or a message -->
 <p align="center">Let's connect and collaborate on exciting projects! Feel free to reach out to me via email or through my social media links above. Looking forward to hearing from you!</p>
 
-![Profile Views](https://hit.yhype.me/github/profile?user_id=75049983)
+<!-- ![Profile Views](https://hit.yhype.me/github/profile?user_id=75049983) -->
 ![](https://komarev.com/ghpvc/?username=nabily4e-dev)
