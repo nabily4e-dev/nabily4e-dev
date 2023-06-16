@@ -36,8 +36,6 @@ You can click the Preview link to take a look at your changes.
 <!-- Add an introduction or bio -->
 <p align="center">Welcome to my GitHub profile! I'm Nabil, a passionate developer with a strong interest in building innovative software solutions. I enjoy exploring new technologies, contributing to open-source projects, and creating impactful applications.</p>
 
-<br>
-
 <!--- Skills --->
 <h2 align="center">Skills</h2>
 
