@@ -20,15 +20,15 @@ You can click the Preview link to take a look at your changes.
  <a href="mailto:napil101@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/nabil-ashbat" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/nabily4e" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/nabily4e" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://nabily4e.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=dev.to&logoColor=white" alt="Portfolio">
-  </a>(Soon...)
+  <a href="https://nabilfolio.app.vercel" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=dev.to&logoColor=white" alt="Portfolio">(Soon...)
+  </a>
 </p>
 
 <br>
@@ -86,5 +86,14 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Add a call to action or a message -->
 <p align="center">Let's connect and collaborate on exciting projects! Feel free to reach out to me via email or through my social media links above. Looking forward to hearing from you!</p>
+
+<p align="center">
+ <a href="mailto:napil101@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/nabily4e" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 <p align="center"> 💙 </p>
