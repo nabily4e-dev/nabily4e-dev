@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://nabilfolio.app.vercel" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=dev.to&logoColor=white" alt="Portfolio">(Soon...)
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=dev.to&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
