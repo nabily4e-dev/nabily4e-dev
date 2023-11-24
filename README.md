@@ -9,13 +9,14 @@ You can click the Preview link to take a look at your changes.
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=nabily4e-dev">
 </p>
-<!-- Add your name or username -->
-<h1 align="center">Nabil Ashbat</h1>
 
-<!-- Add a brief description or tagline -->
-<p align="center">Passionate Developer | Open Source Enthusiast | Tech Lover</p>
+<!-- Name -->
+<h1 align="center">Nabil Al-Ashbat</h1>
 
-<!-- Add your social media and professional links -->
+<!-- A brief description/tagline -->
+<p align="center">Learner | Knowledge Seeker | In Love with OpenSource</p>
+
+<!-- Social media links -->
 <p align="center">
  <a href="mailto:napil101@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
@@ -33,8 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<!-- Add an introduction or bio -->
-<p align="center">Welcome to my GitHub profile! I'm Nabil, a passionate developer with a strong interest in building innovative software solutions. I enjoy exploring new technologies, contributing to open-source projects, and creating impactful applications.</p>
+<!-- Introduction/bio -->
+<h2 align="center">Hi 👋🏽 There</h2>
 
 <!--- Skills --->
 <h2 align="center">Skills</h2>
@@ -84,7 +85,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<!-- Add a call to action or a message -->
+<!-- A call to action/message -->
 <p align="center">Let's connect and collaborate on exciting projects! Feel free to reach out to me via email or through my social media links above. Looking forward to hearing from you!</p>
 
 <p align="center">
