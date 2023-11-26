@@ -84,14 +84,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=nabily4e-dev&show_icons=true&theme=transparent&rank_icon=github" alt="Nabil Ashbat's GitHub stats">
 </p>
 
-###
-
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabily4e-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="nabily4e-dev" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=nabily4e-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=nabily4e-dev&locale=en&mode=daily&theme=github-dark-blue&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
